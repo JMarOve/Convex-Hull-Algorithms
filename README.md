@@ -13,8 +13,19 @@ In layman's terms, the convex hull is the hypersurface that is constructred (in 
 
 ## Algorithms
 
-[1] The Graham's scan (1972) https://en.wikipedia.org/wiki/Graham_scan. Implemented in [Code](https://github.com/JMarOve/Convex-Hull-Algorithms/blob/main/src/ch_algos/GrahamScan.py)
-    Original paper [paper](https://github.com/JMarOve/Convex-Hull-Algorithms/blob/main/doc/ConvexHull-Graham.pdf)
+[1] The Graham's scan (1972) [wiki](https://en.wikipedia.org/wiki/Graham_scan). Implemented in [Code](https://github.com/JMarOve/Convex-Hull-Algorithms/blob/main/src/ch_algos/GrahamScan.py)
+    Original [paper](https://github.com/JMarOve/Convex-Hull-Algorithms/blob/main/doc/ConvexHull-Graham.pdf)
+## To Do:
+
+[-] Jarvis'march (Gift wrapping) (1970) [wiki](https://en.wikipedia.org/wiki/Gift_wrapping_algorithm)
+[-] Quickhull (1977) [wiki](https://en.wikipedia.org/wiki/Quickhull)
+[-] Divide & Conquer (1977) 
+[-] Andy's Algo (Monotone Chaine) (1979) [wiki](https://en.wikibooks.org/wiki/Algorithm_Implementation/Geometry/Convex_hull/Monotone_chain)
+[-] Incremental CH (1984) [wiki]()
+[-] Kirkpatrick-Seidel (1986) [wiki](https://en.wikipedia.org/wiki/Kirkpatrick%E2%80%93Seidel_algorithm)
+[-] Chan's algo (1996) [wiki](https://en.wikipedia.org/wiki/Chan%27s_algorithm)
+
+
 ## Visualization
 
 ![Convex Hull Example](https://github.com/JMarOve/Convex-Hull-Algorithms/blob/main/gifs/graham_scan.gif)
