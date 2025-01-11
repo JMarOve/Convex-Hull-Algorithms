@@ -16,7 +16,7 @@ In layman's terms, the convex hull is the hypersurface that is constructred (in 
 [1] The Graham's scan (1972) https://en.wikipedia.org/wiki/Graham_scan. Implemented in [Code](https://github.com/JMarOve/Convex-Hull-Algorithms/blob/main/src/ch_algos/GrahamScan.py)
 ## Visualization
 
-![Convex Hull Example](https://github.com/JMarOve/Convex-Hull-Algorithms/blob/main/Images/ConvexHullGrahamScan.jpg)
+![Convex Hull Example](https://github.com/JMarOve/Convex-Hull-Algorithms/blob/main/gifs/graham_scan.gif)
 
 
 
